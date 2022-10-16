@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Iy9AeGkJUdwnHCj3ih/KaaALP4l4jn1BRSxIYQGlg8w1hSDPmouIMESu3k/KzJ8DUNiRrIRSdCyOCufol7Ehhw==",
+  "dgSpecHash": "7CEVQgaGIudEmkTlJX5ArXOyhD591xqva7HCkb66sqCn4cfZ7i9M+p8g4oZmWZzuZClsX6c2a6Nz2MaSyxBYhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\ATMApp\\ATMApp.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\Mr_Money.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

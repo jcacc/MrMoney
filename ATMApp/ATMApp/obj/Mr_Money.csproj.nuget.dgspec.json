@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\ATMApp.csproj": {}
+    "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\Mr_Money.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\ATMApp.csproj": {
+    "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\Mr_Money.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\ATMApp.csproj",
-        "projectName": "ATMApp",
-        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\ATMApp.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\Mr_Money.csproj",
+        "projectName": "Mr_Money",
+        "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\Mr_Money.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\obj\\",
         "projectStyle": "PackageReference",

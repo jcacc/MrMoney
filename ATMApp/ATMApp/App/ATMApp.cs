@@ -125,7 +125,7 @@ namespace ATMApp.App
             userAccountList = new List<UserAccount>
             {
                 new UserAccount {ID = 1, FullName = "Joe Accardi", AccountNumber = 123456, CardNumber = 123456, CardPIN = 133737, AccountBalance = 1500000.00m, IsLocked = false },
-                new UserAccount {ID = 2, FullName = "Sal Accardi", AccountNumber = 123458, CardNumber = 654321, CardPIN = 69420, AccountBalance = 500.00m, IsLocked = false},
+                new UserAccount {ID = 2, FullName = "Sal Accardi", AccountNumber = 123458, CardNumber = 654321, CardPIN = 694201, AccountBalance = 500.00m, IsLocked = false},
                 new UserAccount {ID = 3, FullName = "Milo Stratton", AccountNumber = 12347, CardNumber = 456789, CardPIN = 888777, AccountBalance = 50000.00m, IsLocked = false},
             };
             _listOfTransactions = new List<Transaction>();
@@ -173,7 +173,7 @@ namespace ATMApp.App
             selectedAccount.AccountBalance += transactionAmount;
 
             //print success message
-            Utility.PrintMessage($"You have desposited {Utility.FormatAmount(transactionAmount)}.", true);
+            Utility.PrintMessage($"You have deposited {Utility.FormatAmount(transactionAmount)}.", true);
 
         }
 
@@ -230,7 +230,7 @@ namespace ATMApp.App
                 return;
 
             }
-            if((selectedAccount.AccountBalance - transactionAmount) < minimumBalance);
+            if ((selectedAccount.AccountBalance - transactionAmount) < minimumBalance) ;
             {
                 Utility.PrintMessage($"Withdrawal failed. Your account needs a minimum balance of {Utility.FormatAmount(minimumBalance)}", false);
                 return;
