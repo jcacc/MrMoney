@@ -62,34 +62,34 @@ namespace ATMApp.UI
         internal static void DisplayAppMenu()
         {
             Console.Clear();
-            Console.WriteLine("═══════My ATM App Menu═══════");
-            Console.WriteLine("|                           |");
-            Console.WriteLine("| 1.) Balance               |");
-            Console.WriteLine("| 2.) Deposit               |");
-            Console.WriteLine("| 3.) Withdrawal            |");
-            Console.WriteLine("| 4.) Transfer              |");
-            Console.WriteLine("| 5.) Transactions          |");
-            Console.WriteLine("| 6.) Log out               |");
-            Console.WriteLine("|                           |");
-            Console.WriteLine("|═══════════jca═════════════|");
+            Console.WriteLine("╒═════════Mr.Money══════════╕");
+            Console.WriteLine("|▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|");
+            Console.WriteLine("|▓1.) Balance▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|");
+            Console.WriteLine("|▓2.) Deposit▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|");
+            Console.WriteLine("|▓3.) Withdrawal▓▓▓▓▓▓▓▓▓▓▓▓|");
+            Console.WriteLine("|▓4.) Transfer▓▓▓▓▓▓▓▓▓▓▓▓▓▓|");
+            Console.WriteLine("|▓5.) Transactions▓▓▓▓▓▓▓▓▓▓|");
+            Console.WriteLine("|▓6.) Log out▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|");
+            Console.WriteLine("|▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓|");
+            Console.WriteLine("╘════════════jca════════════╛");
         }
 
         internal static void LogOutProgress()
         {
-                Console.WriteLine("Thank you for using My ATM App.");
+                Console.WriteLine("Thank you for using Mr. Money!");
                 Utility.PrintDotAnimation();
                 Console.Clear();            
         }
 
         internal static int SelectAmount()
         {
-            Console.WriteLine("═══════════════════════════════");
-            Console.WriteLine("1.) {0}5        5.){0}200", cur);
-            Console.WriteLine("2.) {0}10       6.){0}400", cur);
-            Console.WriteLine("3.) {0}20       7.){0}500", cur);
-            Console.WriteLine("4.) {0}50       8.){0}1,000", cur);
-            Console.WriteLine("0.) Other");
-            Console.WriteLine("═════════════jca═══════════════");
+            Console.WriteLine("╒═════════Mr.Money══════════╕");
+            Console.WriteLine("| 1.) $5       5.)$200      |");
+            Console.WriteLine("| 2.) $10      6.)$400      |");
+            Console.WriteLine("| 3.) $20      7.)$500      |");
+            Console.WriteLine("| 4.) $50      8.)$1,000    |");
+            Console.WriteLine("| 0.) Other                 |");
+            Console.WriteLine("╘════════════jca════════════╛");
 
             int selectedAmount = Validator.Convert<int>("option:");
             switch (selectedAmount)

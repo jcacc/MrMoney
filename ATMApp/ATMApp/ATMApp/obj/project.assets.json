@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\code ky\\ATMApp\\ATMApp\\ATMApp\\ATMApp.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\ATMApp\\ATMApp.csproj",
       "projectName": "ATMApp",
-      "projectPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\ATMApp\\ATMApp\\ATMApp\\ATMApp.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\ATMApp\\ATMApp.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\OneDrive\\code ky\\ATMApp\\ATMApp\\ATMApp\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\ATMApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
