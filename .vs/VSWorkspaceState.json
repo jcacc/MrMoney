@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DataAccess"
+    "\\ATMApp",
+    "\\ATMApp\\ATMApp",
+    "\\ATMApp\\ATMApp\\ATMApp",
+    "\\ATMApp\\ATMApp\\ATMApp\\UI"
   ],
+  "SelectedNode": "\\ATMApp\\ATMApp\\ATMApp\\UI\\AppScreen.cs",
   "PreviewInSolutionExplorer": false
 }
