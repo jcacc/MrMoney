@@ -1,21 +1,21 @@
-﻿using ATMApp.UI;
-using ATMApp;
+﻿using MrMoney.UI;
+using MrMoney;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATMApp.App
+namespace MrMoney.App
 {
      class Entry
     {
         static void Main(string[] args)
         {
             
-            ATMApp atmAPP = new ATMApp();
-            atmAPP.InitializeData();
-            atmAPP.Run();
+            MrMoney MrMoney = new MrMoney();
+            MrMoney.InitializeData();
+            MrMoney.Run();
     
 
         }

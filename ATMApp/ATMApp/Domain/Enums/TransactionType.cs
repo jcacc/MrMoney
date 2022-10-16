@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATMApp.Domain.Enums
+namespace MrMoney.Domain.Enums
 {
     public enum TransactionType
     {

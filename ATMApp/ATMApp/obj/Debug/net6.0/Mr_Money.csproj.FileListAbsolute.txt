@@ -1,0 +1,17 @@
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.AssemblyInfoInputs.cache
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.AssemblyInfo.cs
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\bin\Debug\net6.0\Mr_Money.exe
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\bin\Debug\net6.0\Mr_Money.deps.json
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\bin\Debug\net6.0\Mr_Money.runtimeconfig.json
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\bin\Debug\net6.0\Mr_Money.dll
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\bin\Debug\net6.0\Mr_Money.pdb
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.dll
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\refint\Mr_Money.dll
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.pdb
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\Mr_Money.genruntimeconfig.cache
+C:\Users\Administrator\Source\Repos\FinalProject\ATMApp\ATMApp\obj\Debug\net6.0\ref\Mr_Money.dll

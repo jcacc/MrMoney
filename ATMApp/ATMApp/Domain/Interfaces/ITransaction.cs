@@ -1,12 +1,12 @@
-﻿using ATMApp.Domain.Entities;
-using ATMApp.Domain.Enums;
+﻿using MrMoney.Domain.Entities;
+using MrMoney.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATMApp.Domain.Interfaces
+namespace MrMoney.Domain.Interfaces
 {
     public interface ITransaction
     {

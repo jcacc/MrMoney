@@ -1,7 +1,7 @@
-﻿using ATMApp.Domain.Entities;
-using ATMApp.Domain.Enums;
-using ATMApp.Domain.Interfaces;
-using ATMApp.UI;
+﻿using MrMoney.Domain.Entities;
+using MrMoney.Domain.Enums;
+using MrMoney.Domain.Interfaces;
+using MrMoney.UI;
 using ConsoleTables;
 using System;
 using System.Collections.Generic;
@@ -10,9 +10,9 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATMApp.App
+namespace MrMoney.App
 {
-    public class ATMApp : IUserLogin, IUserAccountActions, ITransaction
+    public class MrMoney : IUserLogin, IUserAccountActions, ITransaction
     {
         private List<UserAccount> userAccountList;
         private UserAccount selectedAccount;
@@ -20,7 +20,7 @@ namespace ATMApp.App
         private const decimal minimumBalance = 20;
         private readonly AppScreen screen;
 
-        public ATMApp()
+        public MrMoney()
         {
             screen = new AppScreen();
         }

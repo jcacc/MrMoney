@@ -1,11 +1,11 @@
-﻿using ATMApp.Domain.Entities;
+﻿using MrMoney.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ATMApp.UI
+namespace MrMoney.UI
 {
     public class AppScreen
     {
