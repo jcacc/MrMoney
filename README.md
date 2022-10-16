@@ -1,4 +1,3 @@
-# Ripple Effect
-for code ky
+# Mr. Money
 
-A 3PL screenprinter can only provide a business with CSV files updating the inventory they have on hand. The business needs to ingest CSV files and write to a SQL database.
+Just a simple ATM app.
