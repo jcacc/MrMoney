@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\Mr_Money.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\MrMoney\\ATMApp\\ATMApp\\Mr_Money.csproj",
       "projectName": "Mr_Money",
-      "projectPath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\Mr_Money.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\MrMoney\\ATMApp\\ATMApp\\Mr_Money.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Source\\Repos\\FinalProject\\ATMApp\\ATMApp\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\MrMoney\\ATMApp\\ATMApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -749,7 +749,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
