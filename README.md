@@ -21,6 +21,6 @@ It fulfills the following project requirements:
 ![screenshot of the list](/assets/images/userAccountList.png)
 
 ## More than one class
-- Several classes are utilized for the difference transaction types, user account information, a utility class, and a validator class to check data. 
+- Several classes are utilized for the different transaction types, user account information, a utility class, and a validator class to check data. 
 
 ![screenshot of classes](/assets/images/classes.png)
